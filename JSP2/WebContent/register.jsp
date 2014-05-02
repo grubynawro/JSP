@@ -11,8 +11,8 @@
   <div class='login'> 
 		<h1>Zarejestruj sie</h1>
 		<form method='post' action='register'>
-		<p><input type='text' name='email' value='' ></p>
-		<p><input type='password' name='pass' value=''></p>
+		<p><input type='text' name='email' value='' placeholder='Email'></p>
+		<p><input type='password' name='pass' value='' placeholder='Password'></p>
 		<p class='submit'><input type='submit' value='register'></p>
 		</form>
 	</div>
